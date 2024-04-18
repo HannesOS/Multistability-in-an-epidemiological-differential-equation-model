@@ -1,1 +1,1 @@
-# Multistability-in-an-epidemiological-differential-equation-model
+# Multistability-in-an-epidemiological-differential-equation-model-for-tuberculosis
